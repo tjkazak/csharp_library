@@ -1,0 +1,7 @@
+C:\dotNET_October\CSharp_Library\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe.config
+C:\dotNET_October\CSharp_Library\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe
+C:\dotNET_October\CSharp_Library\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.pdb
+C:\dotNET_October\CSharp_Library\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.csprojResolveAssemblyReference.cache
+C:\dotNET_October\CSharp_Library\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.csproj.CoreCompileInputs.cache
+C:\dotNET_October\CSharp_Library\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.exe
+C:\dotNET_October\CSharp_Library\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.pdb

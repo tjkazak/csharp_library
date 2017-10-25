@@ -1,0 +1,6 @@
+C:\dotNET_October\CSharp_Library\0.01_Intro\bin\Debug\0.01_Intro.exe.config
+C:\dotNET_October\CSharp_Library\0.01_Intro\bin\Debug\0.01_Intro.exe
+C:\dotNET_October\CSharp_Library\0.01_Intro\bin\Debug\0.01_Intro.pdb
+C:\dotNET_October\CSharp_Library\0.01_Intro\obj\Debug\0.01_Intro.csproj.CoreCompileInputs.cache
+C:\dotNET_October\CSharp_Library\0.01_Intro\obj\Debug\0.01_Intro.exe
+C:\dotNET_October\CSharp_Library\0.01_Intro\obj\Debug\0.01_Intro.pdb

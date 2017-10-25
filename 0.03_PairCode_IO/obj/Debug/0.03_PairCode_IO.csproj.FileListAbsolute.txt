@@ -1,0 +1,7 @@
+C:\dotNET_October\CSharp_Library\0.03_PairCode_IO\obj\Debug\0.03_PairCode_IO.csprojResolveAssemblyReference.cache
+C:\dotNET_October\CSharp_Library\0.03_PairCode_IO\obj\Debug\0.03_PairCode_IO.csproj.CoreCompileInputs.cache
+C:\dotNET_October\CSharp_Library\0.03_PairCode_IO\bin\Debug\0.03_PairCode_IO.exe.config
+C:\dotNET_October\CSharp_Library\0.03_PairCode_IO\bin\Debug\0.03_PairCode_IO.exe
+C:\dotNET_October\CSharp_Library\0.03_PairCode_IO\bin\Debug\0.03_PairCode_IO.pdb
+C:\dotNET_October\CSharp_Library\0.03_PairCode_IO\obj\Debug\0.03_PairCode_IO.exe
+C:\dotNET_October\CSharp_Library\0.03_PairCode_IO\obj\Debug\0.03_PairCode_IO.pdb
