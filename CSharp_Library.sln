@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Objects_Challenges", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_ObjectsChallengesAnswers", "0.07_ObjectsChallengesAnswers\0.07_ObjectsChallengesAnswers.csproj", "{B9673C48-4E5F-4C3F-A84D-30D95108DD03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_ArrayChallenge", "0.08_ArrayChallenge\0.08_ArrayChallenge.csproj", "{8394B281-C10A-44B3-9C54-77F79C771326}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B9673C48-4E5F-4C3F-A84D-30D95108DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9673C48-4E5F-4C3F-A84D-30D95108DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9673C48-4E5F-4C3F-A84D-30D95108DD03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8394B281-C10A-44B3-9C54-77F79C771326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8394B281-C10A-44B3-9C54-77F79C771326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8394B281-C10A-44B3-9C54-77F79C771326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8394B281-C10A-44B3-9C54-77F79C771326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
