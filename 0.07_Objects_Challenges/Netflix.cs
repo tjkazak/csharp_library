@@ -14,7 +14,7 @@ namespace _0._07_Objects_Challenges
         public int Rating { get; set; }
 
         //Silver
-        public int GetSuggestion() {return Rating}
+//        public int GetSuggestion() { return Rating};
 
     }
 }
