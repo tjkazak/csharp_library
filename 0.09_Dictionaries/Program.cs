@@ -39,6 +39,14 @@ namespace _0._09_Dictionaries
             }
         //            Console.WriteLine();
 
+
+            //gold
+            //set true
+            //while (true)
+            //enter a year and read, error if not valid otherwise continue
+            //if valid year, write out options and read
+            //switch on the answer, case
+
     }
     }
 }
