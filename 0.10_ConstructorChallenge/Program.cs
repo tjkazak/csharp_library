@@ -19,6 +19,7 @@ namespace _0._10_ConstructorChallenge
 
             Console.WriteLine($"I own an {tomsPhone.Make} {tomsPhone.Model}.");
 
+            //Using Method = more DRY
             tomsPhone.PrintPhone();
             karenPhone.PrintPhone();
 
