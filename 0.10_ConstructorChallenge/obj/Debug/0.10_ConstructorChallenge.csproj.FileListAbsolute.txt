@@ -1,0 +1,7 @@
+C:\dotNET_October\CSharp_Library\0.10_ConstructorChallenge\bin\Debug\0.10_ConstructorChallenge.exe.config
+C:\dotNET_October\CSharp_Library\0.10_ConstructorChallenge\bin\Debug\0.10_ConstructorChallenge.exe
+C:\dotNET_October\CSharp_Library\0.10_ConstructorChallenge\bin\Debug\0.10_ConstructorChallenge.pdb
+C:\dotNET_October\CSharp_Library\0.10_ConstructorChallenge\obj\Debug\0.10_ConstructorChallenge.csprojResolveAssemblyReference.cache
+C:\dotNET_October\CSharp_Library\0.10_ConstructorChallenge\obj\Debug\0.10_ConstructorChallenge.csproj.CoreCompileInputs.cache
+C:\dotNET_October\CSharp_Library\0.10_ConstructorChallenge\obj\Debug\0.10_ConstructorChallenge.exe
+C:\dotNET_October\CSharp_Library\0.10_ConstructorChallenge\obj\Debug\0.10_ConstructorChallenge.pdb
