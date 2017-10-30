@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Constructors", "0.10_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ConstructorChallenge", "0.10_ConstructorChallenge\0.10_ConstructorChallenge.csproj", "{8629BE32-8836-4D0B-B836-0DC4FD6D9C02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_OOP_Game", "0.10_OOP_Game\0.10_OOP_Game.csproj", "{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8629BE32-8836-4D0B-B836-0DC4FD6D9C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8629BE32-8836-4D0B-B836-0DC4FD6D9C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8629BE32-8836-4D0B-B836-0DC4FD6D9C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
