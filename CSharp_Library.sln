@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ConstructorChallenge",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_OOP_Game", "0.10_OOP_Game\0.10_OOP_Game.csproj", "{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Inheritance", "0.11_Inheritance\0.11_Inheritance.csproj", "{BEA45929-6404-4668-BF3E-52337C084383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_OOP_GameBuild", "0.11_OOP_GameBuild\0.11_OOP_GameBuild.csproj", "{47BED1F3-8D73-4842-89F8-2E89883808A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA0AB2B-7171-4CD4-A3FD-69A7453F79FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA45929-6404-4668-BF3E-52337C084383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA45929-6404-4668-BF3E-52337C084383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA45929-6404-4668-BF3E-52337C084383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA45929-6404-4668-BF3E-52337C084383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BED1F3-8D73-4842-89F8-2E89883808A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BED1F3-8D73-4842-89F8-2E89883808A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BED1F3-8D73-4842-89F8-2E89883808A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BED1F3-8D73-4842-89F8-2E89883808A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
