@@ -27,16 +27,17 @@ namespace _0._14_Override
             //using triangle
 
             Square newSquare = new Square(4);
-            Circle newCircle = new Circle(4);
-//            Triangle newTriangle = new Triangle();
-            Triangle newBase = new Triangle(3);
-            Triangle newHeight = new Triangle(2);
+            Circle newCircle = new Circle(5);
+            Triangle newTriangle = new Triangle();
+
+            newTriangle.Base = 4;
+            newTriangle.Height = 5;
 
             Console.WriteLine($"Area = {newSquare.Area()}.");
             Console.WriteLine($"Area = {newCircle.Area()}.");
 
             //Need to get this to work... i'm close
-            //Console.WriteLine($"Area = {newTriangle.Area()}.");
+            Console.WriteLine($"Area = {newTriangle.Area()}.");
         }
     }
 }

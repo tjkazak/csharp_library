@@ -9,13 +9,11 @@ namespace _0._14_Override
     class Triangle : Shape
     {
         //Constructor
-        public Triangle(int radius)
+        public Triangle()
         {
-            this.Radius = radius;
         }
 
         //Properties
-        public int Radius { get; set; }
         public int Base { get; set; }
         public int Height { get; set; }
 
