@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Inheritance", "0.11_In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_OOP_GameBuild", "0.11_OOP_GameBuild\0.11_OOP_GameBuild.csproj", "{47BED1F3-8D73-4842-89F8-2E89883808A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Methods_Overloading", "0.12_Methods_Overloading\0.12_Methods_Overloading.csproj", "{1DE2793C-3E98-42D3-9506-8EC821ED09FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_GettersSetters", "0.13_GettersSetters\0.13_GettersSetters.csproj", "{290D965C-5D39-4E4B-BCB3-701A9B5958C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{47BED1F3-8D73-4842-89F8-2E89883808A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47BED1F3-8D73-4842-89F8-2E89883808A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47BED1F3-8D73-4842-89F8-2E89883808A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE2793C-3E98-42D3-9506-8EC821ED09FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE2793C-3E98-42D3-9506-8EC821ED09FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE2793C-3E98-42D3-9506-8EC821ED09FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE2793C-3E98-42D3-9506-8EC821ED09FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290D965C-5D39-4E4B-BCB3-701A9B5958C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290D965C-5D39-4E4B-BCB3-701A9B5958C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290D965C-5D39-4E4B-BCB3-701A9B5958C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290D965C-5D39-4E4B-BCB3-701A9B5958C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
