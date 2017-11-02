@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_TryCatchNew", "0.16_Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_TryCatchExceptions", "0.16_TryCatchExceptions\0.16_TryCatchExceptions.csproj", "{FC4864A8-46BA-40CA-8E8A-3EE716C392B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_Interface", "0.17_Interface\0.17_Interface.csproj", "{DDF36D82-BA98-4C0F-A3D0-4A7092A03439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_Interfaces_ClassExample", "0.17_Interfaces_ClassExample\0.17_Interfaces_ClassExample.csproj", "{8354A9A4-B6FB-4DF6-BD72-C4DCE3306E7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{FC4864A8-46BA-40CA-8E8A-3EE716C392B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC4864A8-46BA-40CA-8E8A-3EE716C392B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC4864A8-46BA-40CA-8E8A-3EE716C392B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF36D82-BA98-4C0F-A3D0-4A7092A03439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF36D82-BA98-4C0F-A3D0-4A7092A03439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF36D82-BA98-4C0F-A3D0-4A7092A03439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF36D82-BA98-4C0F-A3D0-4A7092A03439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8354A9A4-B6FB-4DF6-BD72-C4DCE3306E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8354A9A4-B6FB-4DF6-BD72-C4DCE3306E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8354A9A4-B6FB-4DF6-BD72-C4DCE3306E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8354A9A4-B6FB-4DF6-BD72-C4DCE3306E7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

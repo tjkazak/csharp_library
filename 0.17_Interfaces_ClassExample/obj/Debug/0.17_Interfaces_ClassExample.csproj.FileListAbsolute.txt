@@ -1,0 +1,7 @@
+C:\dotNET_October\CSharp_Library\0.17_Interfaces_ClassExample\bin\Debug\0.17_Interfaces_ClassExample.exe.config
+C:\dotNET_October\CSharp_Library\0.17_Interfaces_ClassExample\bin\Debug\0.17_Interfaces_ClassExample.exe
+C:\dotNET_October\CSharp_Library\0.17_Interfaces_ClassExample\bin\Debug\0.17_Interfaces_ClassExample.pdb
+C:\dotNET_October\CSharp_Library\0.17_Interfaces_ClassExample\obj\Debug\0.17_Interfaces_ClassExample.csprojResolveAssemblyReference.cache
+C:\dotNET_October\CSharp_Library\0.17_Interfaces_ClassExample\obj\Debug\0.17_Interfaces_ClassExample.csproj.CoreCompileInputs.cache
+C:\dotNET_October\CSharp_Library\0.17_Interfaces_ClassExample\obj\Debug\0.17_Interfaces_ClassExample.exe
+C:\dotNET_October\CSharp_Library\0.17_Interfaces_ClassExample\obj\Debug\0.17_Interfaces_ClassExample.pdb
